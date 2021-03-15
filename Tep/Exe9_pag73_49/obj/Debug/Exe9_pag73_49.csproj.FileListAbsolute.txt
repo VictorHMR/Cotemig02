@@ -1,0 +1,10 @@
+C:\Users\vitii\source\repos\Exe9_pag73_49\bin\Debug\Exe9_pag73_49.exe.config
+C:\Users\vitii\source\repos\Exe9_pag73_49\bin\Debug\Exe9_pag73_49.exe
+C:\Users\vitii\source\repos\Exe9_pag73_49\bin\Debug\Exe9_pag73_49.pdb
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.csprojAssemblyReference.cache
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.Form1.resources
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.Properties.Resources.resources
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.csproj.GenerateResource.cache
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.csproj.CoreCompileInputs.cache
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.exe
+C:\Users\vitii\source\repos\Exe9_pag73_49\obj\Debug\Exe9_pag73_49.pdb

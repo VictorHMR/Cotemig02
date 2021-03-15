@@ -1,0 +1,9 @@
+C:\Users\vitii\source\repos\Exe5_Pag67_49\bin\Debug\Exe5_Pag67_49.exe.config
+C:\Users\vitii\source\repos\Exe5_Pag67_49\bin\Debug\Exe5_Pag67_49.exe
+C:\Users\vitii\source\repos\Exe5_Pag67_49\bin\Debug\Exe5_Pag67_49.pdb
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.Form1.resources
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.Properties.Resources.resources
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.csproj.GenerateResource.cache
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.csproj.CoreCompileInputs.cache
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.exe
+C:\Users\vitii\source\repos\Exe5_Pag67_49\obj\Debug\Exe5_Pag67_49.pdb
