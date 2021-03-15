@@ -1,0 +1,13 @@
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.exe
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.deps.json
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.runtimeconfig.json
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.runtimeconfig.dev.json
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.dll
+C:\Users\vitii\source\repos\Exe2_pag73_49\bin\Debug\netcoreapp3.1\Exe2_pag73_49.pdb
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.AssemblyInfoInputs.cache
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.AssemblyInfo.cs
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.csproj.CoreCompileInputs.cache
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.dll
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.pdb
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.genruntimeconfig.cache
+C:\Users\vitii\source\repos\Exe2_pag73_49\obj\Debug\netcoreapp3.1\Exe2_pag73_49.csprojAssemblyReference.cache

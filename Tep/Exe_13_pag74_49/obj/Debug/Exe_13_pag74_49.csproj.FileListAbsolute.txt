@@ -1,0 +1,7 @@
+C:\Users\izume\source\repos\Exe_13_pag74_49\bin\Debug\Exe_13_pag74_49.exe.config
+C:\Users\izume\source\repos\Exe_13_pag74_49\bin\Debug\Exe_13_pag74_49.exe
+C:\Users\izume\source\repos\Exe_13_pag74_49\bin\Debug\Exe_13_pag74_49.pdb
+C:\Users\izume\source\repos\Exe_13_pag74_49\obj\Debug\Exe_13_pag74_49.csprojAssemblyReference.cache
+C:\Users\izume\source\repos\Exe_13_pag74_49\obj\Debug\Exe_13_pag74_49.csproj.CoreCompileInputs.cache
+C:\Users\izume\source\repos\Exe_13_pag74_49\obj\Debug\Exe_13_pag74_49.exe
+C:\Users\izume\source\repos\Exe_13_pag74_49\obj\Debug\Exe_13_pag74_49.pdb
