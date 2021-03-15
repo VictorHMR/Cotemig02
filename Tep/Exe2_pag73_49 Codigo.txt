@@ -1,0 +1,36 @@
+using System;
+
+namespace Exe2_pag73_49
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] elementos = new int[20], maior= new int[50];
+            int indice = 0;
+            Random aleatorio = new Random();
+
+            for (indice = 0; indice < 20; indice++)
+            {
+                elementos[indice] = aleatorio.Next(100);
+
+            }
+
+            Console.WriteLine("elementos do vetor maiores que 50:");
+
+            for (indice = 0; indice < 20; indice++)
+            {
+                
+
+                if (elementos[indice] > 50 )
+                {
+                    Console.WriteLine(elementos[indice]);
+                }
+
+
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

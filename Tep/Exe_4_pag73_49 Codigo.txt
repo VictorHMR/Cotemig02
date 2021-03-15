@@ -1,0 +1,76 @@
+using System;
+
+namespace Exe4_pag73_49
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] elementos = new int[200];
+            int indice = 0, soma = 0, maior = int.MinValue, menor = int.MaxValue, menor_pos = 0, media = 0, zero = 0, porcent_zero = 0, negativos = 0, pos_negativo= 0, posic_cem = 0;
+            int[] entre = new int[200];
+            Random aleatorio = new Random();
+
+            for (indice = 0; indice < 200; indice++)
+            {
+                elementos[indice] = aleatorio.Next(300);
+                soma += elementos[indice];
+                if (elementos[indice] > maior)
+                {
+                    maior = elementos[indice];
+                }
+                if (elementos[indice] < menor)
+                {
+                    menor_pos = indice;
+                    menor = elementos[indice];
+                }
+                media = soma / 200;
+
+                if (elementos[indice] == 0)
+                {
+                    zero += 1;
+                }
+
+                porcent_zero = (200 / 100) * zero;
+
+                if(elementos[indice] < 0)
+                {
+                    negativos += 1;
+                    pos_negativo = indice;
+                }
+
+                if(elementos[indice] > 100 && elementos[indice] < 200){
+
+                    
+
+                }
+
+                
+
+            
+            }
+            Console.WriteLine("A soma de Todos os numeros e: " + soma);
+            Console.WriteLine("O valor do Maior e: " + maior);
+            Console.WriteLine("O valor do menor e: " + menor + " e ele esta na posição: " + menor_pos);
+            Console.WriteLine("A media é: " + media);
+            Console.WriteLine("O numero 0 foi digitado: " + zero + " Vezes, um total de: " + porcent_zero + "%");
+
+            Console.WriteLine("Foram digitados: " + negativos + " Numeros negativos");
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

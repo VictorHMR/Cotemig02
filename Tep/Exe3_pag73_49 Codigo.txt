@@ -1,0 +1,35 @@
+using System;
+namespace Exe3_pag73_49
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] elementos = new int[5];
+            int indice = 0, maior = int.MinValue, indice_maior = 0;
+
+            Random aleatorio = new Random();
+
+            for (indice = 0; indice < 5; indice++)
+            {
+                elementos[indice] = aleatorio.Next(5000);
+
+                if(elementos[indice] > maior)
+                {
+                    indice_maior = indice;
+                    maior = elementos[indice];
+                }
+            }
+
+            Console.WriteLine("elementos do vetor.:");
+
+            for(indice = 0; indice < 5; indice++)
+            {
+                Console.WriteLine(elementos[indice]);
+            }
+            Console.WriteLine("o maior elemento do vetor é :" + maior+ " e encontra-se na posição " +indice_maior+ " do vetor");
+
+            Console.ReadKey();
+        }
+    }
+}

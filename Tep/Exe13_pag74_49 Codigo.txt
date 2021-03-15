@@ -1,0 +1,84 @@
+using System;
+namespace Exe_13_pag74_49
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] candidatos = new string[10] { "Russo", "Jose", "Cleiton", "Farlen", "Cleber", "Irineu", "Jucimar", "Pedro", "Joseilda", "Joyline" };
+            int indice = 0, voto_eleitor = 0, maior = int.MinValue, posicao = 0;
+            int[] votos = new int[10];
+            Random aleatorio = new Random();
+            Console.WriteLine("...................Escolha um candidato.................");
+
+            for (indice = 0; indice < 10; indice++)
+            {
+                Console.WriteLine(indice + " - " + candidatos[indice]);
+            }
+
+            Console.WriteLine("...................Votação.................");
+            for (voto_eleitor = 0; voto_eleitor <= 36000; voto_eleitor++)
+            {
+                votos[aleatorio.Next(10)]++;
+            }
+            Console.WriteLine("...................Resultados.................");
+
+            for (indice = 0; indice < 10; indice++)
+            {
+                Console.WriteLine(indice + " - " + candidatos[indice] + " obteve: " + votos[indice] + " votos ");
+
+                if (votos[indice] > maior)
+                {
+                    maior = votos[indice];
+                    posicao = indice;
+                }
+            }
+            Console.WriteLine("...................Vencedor.................");
+            Console.WriteLine("O Vencedor das eleições é : " + candidatos[posicao]);
+            Console.ReadKey();
+        }
+
+
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if(classe1 == 1)
+            {
+                salarioval = salario[1];
+            }else if (classe1 == 2)
+            {
+                salarioval = salario[2];
+            }else if (classe1 == 3)
+            {
+                salarioval = salario[3];
+            }else if (classe1 == 3)
+            {
+                salarioval = salario[3];
+            }else if (classe1 == 4)
+            {
+                salarioval = salario[4];
+            }else if (classe1 == 5)
+            {
+                salarioval = salario[5];
+            }else if (classe1 == 6)
+            {
+                salarioval = salario[6];
+            }
+            else if (classe1 == 7)
+            {
+                salarioval = salario[7];
+            }
