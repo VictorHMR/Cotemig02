@@ -1,0 +1,10 @@
+C:\Users\vitii\source\repos\Pag74_exe13\bin\Debug\Pag74_exe13.exe.config
+C:\Users\vitii\source\repos\Pag74_exe13\bin\Debug\Pag74_exe13.exe
+C:\Users\vitii\source\repos\Pag74_exe13\bin\Debug\Pag74_exe13.pdb
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.csprojAssemblyReference.cache
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.Form1.resources
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.Properties.Resources.resources
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.csproj.GenerateResource.cache
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.csproj.CoreCompileInputs.cache
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.exe
+C:\Users\vitii\source\repos\Pag74_exe13\obj\Debug\Pag74_exe13.pdb
